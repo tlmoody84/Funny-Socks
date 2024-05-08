@@ -1,0 +1,42 @@
+html{
+    background-color: aquamarine
+}
+header{
+    padding: 50px;
+    background-color: pink;
+    color: purple;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   }
+   img{
+       height: 100px;
+       width: 200px;
+   }
+   #products{
+       background-color: rose;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   }
+   h2{
+       background-color: pink;
+   }
+   footer{
+       background-color: yellow;
+       color: black;
+       padding: 50px;
+       margin-top: 10px;
+       text-align: center;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   }
+   button{
+       background-color: green;
+       color: white;
+   }
+   h1 {
+       text-align: center;
+   }
+   li {
+       display: inline;
+   }
+   ul{
+       text-align: center;
+   }
